@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_a7a19188025740a12e0c934d7fcd7631357e5a8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_19968243c85c61ab39e9a86a7f5c0defd4e83711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.1.1\6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5\org.eclipse.paho.android.service-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.android.service-1.1.1_c4e0951eef2d98537ace8e675358688ea38c2e27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_e651d7a3096b6d21254e833006f581389aaff928\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4788291ab6e6375bcf9c39dbc5163c4e8fce4e50">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d9b666e296b6227463892017099968175cddfbe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_84135c96b1deb351704e714e2b5a928345cb46ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_f23de1d98897b60cd6d65bbc8ce36fdc6f9a16ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_90cdec29c12f2f6d67ea3fb538c2e7dd54ecaa62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.1.0\89d827ffa47c241f2627421ef1d6c7a8c207a341\org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.client.mqttv3-1.1.0_4eda94e031c488412e62496c5457099f8495172f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_2d0f866622836764437e51bf6248aa28cde0a6ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_e0f28e311ba499803dcb39c2b0ebf364d02d56f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_ab3fb41b78b771d7851e9d7fea2e9b80aa954032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_4e6d2c85d1701abe91be6c8b8f83b86036e49694\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidProject\TcpDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e244ae3c33fb122b91f3f1ef30eef5220ea77921">
+        <dex dex="E:\AndroidProject\TcpDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6a248665af7103a82ede1510c1a5a32c11ef3228\classes.dex" />
+    </item>
+
+</items>
